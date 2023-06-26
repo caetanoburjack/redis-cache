@@ -38,3 +38,6 @@ Fetching time: [__API] 658.59 ms
 Fetching time: [Redis] 2.29 ms
 Fetching time: [__API] 451.36 ms
 ```
+
+### Free PDF Course
+If you want to learn about Redis, I took a free Redis introductory course present in this repository, inside course/redis-course.pdf.
